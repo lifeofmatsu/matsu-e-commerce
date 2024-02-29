@@ -7,7 +7,7 @@
                 {
                     "id": 1,
                     "product_name": "Plain T-Shirt",
-                    "price": 15,
+                    "price": 14.99,
                     "stock": 14,
                     "category_id": 1
                 }
@@ -20,7 +20,7 @@
                 {
                     "id": 5,
                     "product_name": "Cargo Shorts",
-                    "price": 30,
+                    "price": 29.99,
                     "stock": 22,
                     "category_id": 2
                 }
@@ -33,7 +33,7 @@
                 {
                     "id": 4,
                     "product_name": "Top 40 Music Compilation Vinyl Record",
-                    "price": 13,
+                    "price": 12.99,
                     "stock": 50,
                     "category_id": 3
                 }
@@ -46,7 +46,7 @@
                 {
                     "id": 3,
                     "product_name": "Branded Baseball Hat",
-                    "price": 23,
+                    "price": 22.99,
                     "stock": 12,
                     "category_id": 4
                 }
@@ -59,7 +59,7 @@
                 {
                     "id": 2,
                     "product_name": "Running Sneakers",
-                    "price": 90,
+                    "price": 90.00,
                     "stock": 25,
                     "category_id": 5
                 }
@@ -70,7 +70,7 @@
         {
             "id": 1,
             "product_name": "Plain T-Shirt",
-            "price": 15,
+            "price": 14.99,
             "stock": 14,
             "category_id": 1,
             "category": {
@@ -110,7 +110,7 @@
         {
             "id": 2,
             "product_name": "Running Sneakers",
-            "price": 90,
+            "price": 90.00,
             "stock": 25,
             "category_id": 5,
             "category": {
@@ -132,7 +132,7 @@
         {
             "id": 3,
             "product_name": "Branded Baseball Hat",
-            "price": 23,
+            "price": 22.99,
             "stock": 12,
             "category_id": 4,
             "category": {
@@ -181,7 +181,7 @@
         {
             "id": 4,
             "product_name": "Top 40 Music Compilation Vinyl Record",
-            "price": 13,
+            "price": 12.99,
             "stock": 50,
             "category_id": 3,
             "category": {
@@ -221,7 +221,7 @@
         {
             "id": 5,
             "product_name": "Cargo Shorts",
-            "price": 30,
+            "price": 29.99,
             "stock": 22,
             "category_id": 2,
             "category": {
@@ -249,7 +249,7 @@
                 {
                     "id": 3,
                     "product_name": "Branded Baseball Hat",
-                    "price": 23,
+                    "price": 22.99,
                     "stock": 12,
                     "category_id": 4,
                     "product_tag": {
@@ -261,7 +261,7 @@
                 {
                     "id": 4,
                     "product_name": "Top 40 Music Compilation Vinyl Record",
-                    "price": 13,
+                    "price": 12.99,
                     "stock": 50,
                     "category_id": 3,
                     "product_tag": {
@@ -279,7 +279,7 @@
                 {
                     "id": 4,
                     "product_name": "Top 40 Music Compilation Vinyl Record",
-                    "price": 13,
+                    "price": 12.99,
                     "stock": 50,
                     "category_id": 3,
                     "product_tag": {
@@ -297,7 +297,7 @@
                 {
                     "id": 3,
                     "product_name": "Branded Baseball Hat",
-                    "price": 23,
+                    "price": 22.99,
                     "stock": 12,
                     "category_id": 4,
                     "product_tag": {
@@ -309,7 +309,7 @@
                 {
                     "id": 5,
                     "product_name": "Cargo Shorts",
-                    "price": 30,
+                    "price": 29.99,
                     "stock": 22,
                     "category_id": 2,
                     "product_tag": {
@@ -327,7 +327,7 @@
                 {
                     "id": 3,
                     "product_name": "Branded Baseball Hat",
-                    "price": 23,
+                    "price": 22.99,
                     "stock": 12,
                     "category_id": 4,
                     "product_tag": {
@@ -345,7 +345,7 @@
                 {
                     "id": 3,
                     "product_name": "Branded Baseball Hat",
-                    "price": 23,
+                    "price": 22.99,
                     "stock": 12,
                     "category_id": 4,
                     "product_tag": {
@@ -363,7 +363,7 @@
                 {
                     "id": 1,
                     "product_name": "Plain T-Shirt",
-                    "price": 15,
+                    "price": 14.99,
                     "stock": 14,
                     "category_id": 1,
                     "product_tag": {
@@ -375,7 +375,7 @@
                 {
                     "id": 2,
                     "product_name": "Running Sneakers",
-                    "price": 90,
+                    "price": 90.00,
                     "stock": 25,
                     "category_id": 5,
                     "product_tag": {
@@ -393,7 +393,7 @@
                 {
                     "id": 1,
                     "product_name": "Plain T-Shirt",
-                    "price": 15,
+                    "price": 14.99,
                     "stock": 14,
                     "category_id": 1,
                     "product_tag": {
@@ -411,7 +411,7 @@
                 {
                     "id": 1,
                     "product_name": "Plain T-Shirt",
-                    "price": 15,
+                    "price": 14.99,
                     "stock": 14,
                     "category_id": 1,
                     "product_tag": {
@@ -423,7 +423,7 @@
                 {
                     "id": 4,
                     "product_name": "Top 40 Music Compilation Vinyl Record",
-                    "price": 13,
+                    "price": 12.99,
                     "stock": 50,
                     "category_id": 3,
                     "product_tag": {

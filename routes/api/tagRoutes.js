@@ -29,6 +29,13 @@ router.get('/:id', async (req, res) => {
 	}
 });
 
+/**
+ * req.body should look like this...
+ *   {
+ *       tag_name: 'orange',
+ *       product_ids: [1, 2, 3]
+ *   }
+ */
 router.post('/', async (req, res) => {
 	try {
 		const tagData = await Tag.create(req.body);
