@@ -37,7 +37,7 @@ router.get('/:id', async (req, res) => {
  *       product_name: "Basketball",
  *       price: 65.95,
  *       stock: 12,
- *       tag_ids: [1, 2, 3, 4]
+ *       tag_id: [1, 2, 3, 4]
  *   }
  */
 router.post('/', async (req, res) => {
